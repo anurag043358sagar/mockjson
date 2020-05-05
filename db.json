@@ -7,8 +7,5 @@
   "comments": [
   {"id": 1, "body": "comment 1", "postId": 1},
   {"id": 2, "body": "comment 2", "postId": 2}
-  ],
-  "profile": [
-  "name": "profile 1"
   ]
 }
